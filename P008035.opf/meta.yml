@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W15269
   title: ཀུན་དགའ་རྣམ་རྒྱལ་གྱི་རྣམ་ཐར།
-  volume: ''
+  volume:
+    04810661f1ab4cdbae2045a646b7da27:
+      image_group_id: I1KG5126
+      title: Volume 1 of kun dga' rnam rgyal gyi rnam thar
+      volume_number: 1
+      total_pages: 234
   author: ''
+ebook_metadata:
+  title: ཀུན་དགའ་རྣམ་རྒྱལ་གྱི་རྣམ་ཐར།
+  author: ''
+  sku: P008035
+  cover: cover.jpg
+  layers:
+  - pagination
